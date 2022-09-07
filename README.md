@@ -5,7 +5,7 @@ This is done using [series](https://medium.com/@eyyu/coding-ppo-from-scratch-wit
 
 
 
-I wrote this code with the assumption that you have some experience with Python and Reinforcement Learning (RL), including how policy gradient (pg) algorithms and PPO work (for PPO, should just be familiar with theoretical level. After all, this code should help you with putting PPO into practice). If unfamiliar with RL, pg, or PPO, follow the three links below in order: <br />
+If unfamiliar with RL, pg, or PPO, follow the three links below in order: <br />
 
 If unfamiliar with RL, read [OpenAI Introduction to RL (all 3 parts)](https://spinningup.openai.com/en/latest/spinningup/rl_intro.html) <br />
 If unfamiliar with pg, read [An Intuitive Explanation of Policy Gradient](https://towardsdatascience.com/an-intuitive-explanation-of-policy-gradient-part-1-reinforce-aa4392cbfd3c) <br />
