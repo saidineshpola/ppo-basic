@@ -1,7 +1,7 @@
 # PPO for Beginners
 
 ## Introduction
-This is done using [series](https://medium.com/@eyyu/coding-ppo-from-scratch-with-pytorch-part-1-4-613dfc1b14c8). 
+This is done using [series](https://medium.com/@eyyu/coding-ppo-from-scratch-with-pytorch-part-1-4-613dfc1b14c8) by Eric Yang Yu. 
 
 
 
