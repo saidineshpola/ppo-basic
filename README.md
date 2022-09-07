@@ -63,8 +63,8 @@ Here's a [list of environments](https://github.com/openai/gym/wiki/Table-of-envi
 
 Hyperparameters can be found [here](https://github.com/araffin/rl-baselines-zoo/blob/master/hyperparams/ppo2.yml).
 For evaluating it in collab use
-`import os
-os.environ["SDL_VIDEODRIVER"] = "dummy"`
+```import os
+os.environ["SDL_VIDEODRIVER"] = "dummy"```
 
 ## Results
 
