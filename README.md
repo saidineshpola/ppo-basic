@@ -65,6 +65,6 @@ Hyperparameters can be found [here](https://github.com/araffin/rl-baselines-zoo/
 
 ## Results
 
-Please refer to my [Medium article](https://medium.com/@eyyu/coding-ppo-from-scratch-with-pytorch-part-1-4-613dfc1b14c8).
+Please refer to  [Medium article](https://medium.com/@eyyu/coding-ppo-from-scratch-with-pytorch-part-1-4-613dfc1b14c8).
 
 
