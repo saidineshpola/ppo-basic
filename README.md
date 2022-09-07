@@ -1,9 +1,9 @@
 # PPO for Beginners
 
 ## Introduction
-Hi! My name is Eric Yu, and I wrote this repository to help beginners get started in writing Proximal Policy Optimization (PPO) from scratch using PyTorch. My goal is to provide a code for PPO that's bare-bones (little/no fancy tricks) and extremely well documented/styled and structured. I'm especially targeting people who are tired of reading endless PPO implementations and having absolutely no idea what's going on. 
+This is done using [series](https://medium.com/@eyyu/coding-ppo-from-scratch-with-pytorch-part-1-4-613dfc1b14c8). 
 
-If you're not coming from Medium, please read my [series](https://medium.com/@eyyu/coding-ppo-from-scratch-with-pytorch-part-1-4-613dfc1b14c8) first.
+
 
 I wrote this code with the assumption that you have some experience with Python and Reinforcement Learning (RL), including how policy gradient (pg) algorithms and PPO work (for PPO, should just be familiar with theoretical level. After all, this code should help you with putting PPO into practice). If unfamiliar with RL, pg, or PPO, follow the three links below in order: <br />
 
@@ -67,8 +67,4 @@ Hyperparameters can be found [here](https://github.com/araffin/rl-baselines-zoo/
 
 Please refer to my [Medium article](https://medium.com/@eyyu/coding-ppo-from-scratch-with-pytorch-part-1-4-613dfc1b14c8).
 
-## Contact
 
-If you have any questions or would like to reach out to me, you can find me here: <br />
-Email: eyyu@ucsd.edu <br />
-LinkedIn: [https://www.linkedin.com/in/eric-yu-engineer/](https://www.linkedin.com/in/eric-yu-engineer/) <br />
