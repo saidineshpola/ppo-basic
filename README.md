@@ -59,7 +59,7 @@ Here's a great pdb tutorial to get started: [https://www.youtube.com/watch?v=VQj
 Or if you're an expert with debuggers, here's the documentation: [https://docs.python.org/3/library/pdb.html](https://docs.python.org/3/library/pdb.html)
 
 ## PPO steps
-image[https://miro.medium.com/max/700/1*AX2vLguiKvxn-YIntIx18w.png]
+![image](https://miro.medium.com/max/700/1*AX2vLguiKvxn-YIntIx18w.png)
 
 ## Environments
 Here's a [list of environments](https://github.com/openai/gym/wiki/Table-of-environments) you can try out. Note that in this PPO implementation, you can only use the ones with ```Box``` for both observation and action spaces.
