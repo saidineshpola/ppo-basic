@@ -1,0 +1,24 @@
+{
+    "os": "Windows-10-10.0.19044-SP0",
+    "python": "3.8.10",
+    "heartbeatAt": "2022-09-14T07:56:44.314724",
+    "startedAt": "2022-09-14T07:56:43.924371",
+    "docker": null,
+    "cpu_count": 4,
+    "cuda": null,
+    "args": [
+        "--track"
+    ],
+    "state": "running",
+    "program": "ppo.py",
+    "codePath": "ppo.py",
+    "git": {
+        "remote": null,
+        "commit": "a69445bfe3132c9178ce0bff5fbc8c2687097266"
+    },
+    "email": "saidines12@example.com",
+    "root": "C:/Users/SAIDINESH POLa/Desktop/projects/ppo-lstm",
+    "host": "saidinesh",
+    "username": "saidineshpola",
+    "executable": "C:\\Users\\SAIDINESH POLa\\AppData\\Local\\Programs\\Python\\Python38\\python.exe"
+}

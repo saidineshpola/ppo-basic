@@ -1,0 +1,24 @@
+2022-09-14 13:26:43,932 INFO    MainThread:6400 [wandb_setup.py:_flush():68] Configure stats pid to 6400
+2022-09-14 13:26:43,932 INFO    MainThread:6400 [wandb_setup.py:_flush():68] Loading settings from C:\Users\SAIDINESH POLa\.config\wandb\settings
+2022-09-14 13:26:43,933 INFO    MainThread:6400 [wandb_setup.py:_flush():68] Loading settings from C:\Users\SAIDINESH POLa\Desktop\projects\ppo-lstm\wandb\settings
+2022-09-14 13:26:43,933 INFO    MainThread:6400 [wandb_setup.py:_flush():68] Loading settings from environment variables: {'_require_service': 'True'}
+2022-09-14 13:26:43,933 INFO    MainThread:6400 [wandb_setup.py:_flush():68] Inferring run settings from compute environment: {'program_relpath': 'ppo.py', 'program': 'ppo.py'}
+2022-09-14 13:26:43,957 INFO    MainThread:6400 [wandb_setup.py:_flush():68] Applying login settings: {'mode': 'offline'}
+2022-09-14 13:26:43,958 INFO    MainThread:6400 [wandb_init.py:_log_setup():476] Logging user logs to C:\Users\SAIDINESH POLa\Desktop\projects\ppo-lstm\wandb\offline-run-20220914_132643-itcs0a32\logs\debug.log
+2022-09-14 13:26:43,959 INFO    MainThread:6400 [wandb_init.py:_log_setup():477] Logging internal logs to C:\Users\SAIDINESH POLa\Desktop\projects\ppo-lstm\wandb\offline-run-20220914_132643-itcs0a32\logs\debug-internal.log
+2022-09-14 13:26:43,960 INFO    MainThread:6400 [wandb_init.py:init():516] calling init triggers
+2022-09-14 13:26:43,960 INFO    MainThread:6400 [wandb_init.py:init():519] wandb.init called with sweep_config: {}
+config: {'exp_name': 'ppo', 'gym_id': 'CartPole-v1', 'learning_rate': 0.00025, 'seed': 1, 'total_timesteps': 25000, 'torch_deterministic': True, 'cuda': True, 'track': True, 'wandb_project_name': 'ppo-implementation-details', 'wandb_entity': None, 'capture_video': False}
+2022-09-14 13:26:43,960 INFO    MainThread:6400 [wandb_init.py:init():569] starting backend
+2022-09-14 13:26:43,960 INFO    MainThread:6400 [wandb_init.py:init():573] setting up manager
+2022-09-14 13:26:44,012 INFO    MainThread:6400 [backend.py:_multiprocessing_setup():102] multiprocessing start_methods=spawn, using: spawn
+2022-09-14 13:26:44,019 INFO    MainThread:6400 [wandb_init.py:init():580] backend started and connected
+2022-09-14 13:26:44,033 INFO    MainThread:6400 [wandb_init.py:init():658] updated telemetry
+2022-09-14 13:26:44,259 INFO    MainThread:6400 [wandb_init.py:init():727] starting run threads in backend
+2022-09-14 13:26:45,834 INFO    MainThread:6400 [wandb_run.py:_console_start():1954] atexit reg
+2022-09-14 13:26:45,835 INFO    MainThread:6400 [wandb_run.py:_redirect():1812] redirect: SettingsConsole.WRAP_RAW
+2022-09-14 13:26:45,835 INFO    MainThread:6400 [wandb_run.py:_redirect():1877] Wrapping output streams.
+2022-09-14 13:26:45,835 INFO    MainThread:6400 [wandb_run.py:_redirect():1899] Redirects installed.
+2022-09-14 13:26:45,836 INFO    MainThread:6400 [wandb_init.py:init():764] run started, returning control to user process
+2022-09-14 13:26:45,837 INFO    MainThread:6400 [wandb_run.py:_tensorboard_callback():1270] tensorboard callback: runs/CartPole-v1_ppo__1__1663141863, True
+2022-09-14 13:26:58,412 WARNING MsgRouterThr:6400 [router.py:message_loop():77] message_loop has been closed

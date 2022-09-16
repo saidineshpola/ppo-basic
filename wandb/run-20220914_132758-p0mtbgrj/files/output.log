@@ -1,0 +1,2 @@
+C:\Users\SAIDINESH POLa\AppData\Local\Programs\Python\Python38\lib\site-packages\wandb\sdk\lib\import_hooks.py:246: DeprecationWarning: Deprecated since Python 3.4. Use importlib.util.find_spec() instead.
+  loader = importlib.find_loader(fullname, path)
